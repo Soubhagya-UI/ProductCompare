@@ -1,0 +1,1 @@
+export const CHECK_BOX_CLICKED = "CHECK_BOX_CLICKED"
